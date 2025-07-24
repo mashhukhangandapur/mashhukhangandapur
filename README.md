@@ -28,11 +28,3 @@ Connect with me
 <p align="center"> <a href="https://github.com/mashhukhangandapur"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://x.com/MashhoodKhan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://linkedin.com/in/muhammad-mashhood-8280b7273"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://stackoverflow.com/users/30324373/mashhood-khan"><img src="https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a> <a href="https://dev.to/mashhood_khan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a> </p>
 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mashhukhangandapur&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashhukhangandapur&layout=compact&theme=radical"> </p>
-This version:
-
-Removes bluffing (“mastering,” “expert”) and states what you actually do.
-
-Highlights both backend & Android (so you look versatile).
-
-Keeps it clean & recruiter-friendly.
-
