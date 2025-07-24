@@ -1,54 +1,38 @@
-## Hey there! I'm Mashhood Khan 👋
-A passionate **Android Developer** crafting sleek, modern mobile experiences with **Kotlin** & **Jetpack Compose** 🚀
+Hey there! I'm Mashhood Khan 👋
+I’m a Backend Developer focused on building secure and scalable APIs using Spring Boot and Java.
+I also have hands-on experience with Android (Kotlin & Jetpack Compose), which allows me to understand full-stack development from mobile clients to backend systems.
 
-🌱 **Currently exploring:**  
-- Jetpack Compose magic for declarative UI  
-- Modern Android architecture (MVVM, Hilt, Room)  
-- Performance optimization & clean code practices  
-- Coroutines & Flow for async programming  
-- Dependency injection with Hilt  
+What I work with
+Spring Boot for RESTful API development
 
-❓ **Have questions about Kotlin, Compose, or Android dev? I’m here to help!**
+Spring Security for authentication (CSRF, JWT, role-based access)
 
-⚡ **Fun fact:** I’m a strong believer in **dark theme by default**.
+Databases: MySQL, PostgreSQL (JPA/Hibernate)
 
----
+Version Control & Collaboration: Git & GitHub
 
-## My Skill Set  
+Basic Docker & containerization for application packaging
 
-<p align="center">  
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Room-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white"/>  
-</p>  
+Kotlin & Jetpack Compose for Android development
 
----
+Currently building
+REST APIs with JWT authentication for secure communication
 
-## Connect with me  
+Backend services for mobile & web applications
 
-<p align="center">  
-<a href="https://github.com/mashhukhangandapur"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>  
-<a href="https://x.com/MashhoodKhan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
-<a href="https://linkedin.com/in/muhammad-mashhood-8280b7273"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-<a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
-<a href="https://stackoverflow.com/users/30324373/mashhood-khan"><img src="https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>  
-<a href="https://dev.to/mashhood_khan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>  
-</p>  
+Personal projects integrating Spring Boot with Android clients
 
----
+Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
+Connect with me
+<p align="center"> <a href="https://github.com/mashhukhangandapur"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://x.com/MashhoodKhan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://linkedin.com/in/muhammad-mashhood-8280b7273"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://stackoverflow.com/users/30324373/mashhood-khan"><img src="https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a> <a href="https://dev.to/mashhood_khan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a> </p>
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mashhukhangandapur&show_icons=true&theme=radical"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashhukhangandapur&layout=compact&theme=radical"> </p>
+This version:
 
-### 📈 GitHub Stats  
+Removes bluffing (“mastering,” “expert”) and states what you actually do.
 
-<p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical">  
-</p>  
+Highlights both backend & Android (so you look versatile).
 
----
+Keeps it clean & recruiter-friendly.
 
-Feel free to check out my repositories and connect with me on socials!
